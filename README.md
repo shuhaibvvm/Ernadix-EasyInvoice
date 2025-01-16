@@ -83,7 +83,7 @@ The current price for a license is **₹2000**.
 
 ### Contact for Price Confirmation:
 - **Call or WhatsApp**: +91 9447551200, +91 9567560972
-- **Email**: [Ernadix@gmail.com](mailto:Ernadix@gmail.com)
+- **Email**: [Ernadix@gmail.com](mailto:Ernadixofficial@gmail.com)
 
 ### Payment Methods:
 - **UPI ID**: `suhaibvbm-1@oksbi`
@@ -96,7 +96,7 @@ The current price for a license is **₹2000**.
 
 ## Contact
 
-- **Email**: [Ernadix@gmail.com](mailto:Ernadix@gmail.com)
+- **Email**: [Ernadix@gmail.com](mailto:Ernadixofficial@gmail.com)
 - **Instagram**: [@ernadixofficial](https://www.instagram.com/ernadixofficial)
 - **WhatsApp/Call**: +91 9447551200, +91 9567560972
 
