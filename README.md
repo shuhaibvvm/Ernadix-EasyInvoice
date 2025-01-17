@@ -50,7 +50,7 @@
 
 1. Download the latest version from [here](https://github.com/shuhaibvvm/Ernadix-EasyInvoice/releases/download/v1.5/Ernadix.Easy-Invoice.zip ).
 2. Extract the downloaded zip file (if applicable).
-3. Run `Ernadix Easy-Invoice.exe` to start the application.
+3. Run `setup.exe` to start the application.
 
 ---
 
